@@ -49,7 +49,7 @@ pyparsing==2.2.0
 python-dateutil==2.6.1
 pytz==2017.3
 PyWavelets==0.5.2
-PyYAML==3.12
+PyYAML==5.1
 pyzmq==15.1.0
 qtconsole==4.1.1
 scikit-image==0.13.1
