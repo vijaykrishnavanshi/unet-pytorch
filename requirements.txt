@@ -35,7 +35,7 @@ networkx==2.0
 notebook==5.7.8
 numpy==1.13.3
 olefile==0.44
-opencv-python==3.3.0.10
+opencv-python==3.3.1.11
 pandas==0.21.0
 path.py==8.1.2
 pbr==3.1.1
