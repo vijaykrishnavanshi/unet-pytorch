@@ -59,7 +59,7 @@ simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.11.0
 subprocess32==3.2.7
-tensorflow==1.12.2
+tensorflow==2.9.3
 tensorflow-tensorboard==0.1.8
 terminado==0.5
 torch==0.2.0.post3
