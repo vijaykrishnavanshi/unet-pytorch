@@ -4,7 +4,7 @@ backports.functools-lru-cache==1.4
 backports.ssl-match-hostname==3.5.0.1
 backports.weakref==1.0.post1
 bleach==3.1.1
-certifi==2015.11.20.1
+certifi==2022.12.7
 cycler==0.10.0
 decorator==4.1.2
 funcsigs==1.0.2
